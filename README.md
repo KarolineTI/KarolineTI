@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Karoline Barreto!
 
-<!--
-**KarolineTI/KarolineTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UMC)
+💻 Apaixonada por tecnologia e em constante evolução na área de desenvolvimento de software
+🚀 Em busca da minha primeira oportunidade como Estagiária de TI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+* 🎓 Tecnólogo em ADS (Previsão: Julho/2026)
+* 💻 Focada em Java, Python e Banco de Dados (SQL)
+* 🎯 Objetivo: me tornar Desenvolvedora de Software
+* 📍 Ferraz de Vasconcelos - SP
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+
+* Java
+* Python
+* JavaScript
+* HTML
+* CSS
+
+### 🗄️ Banco de Dados
+
+* MySQL
+
+### ⚙️ Ferramentas
+
+* VS Code
+* IntelliJ IDEA
+* Git
+* GitHub
+
+---
+
+## 📚 Atualmente estudando
+
+* Estruturas de Dados
+* Programação Orientada a Objetos
+* Banco de Dados
+
+---
+
+## 📌 Projetos em destaque
+
+🚧 Em construção... (em breve novos projetos aqui!)
+
+---
+
+## 📫 Contato
+
+📧 [karoliinequeiroz238@gmail.com](mailto:karoliinequeiroz238@gmail.com)
+🔗 LinkedIn: [https://www.linkedin.com/in/karoline-queiroz-8349ab209](https://www.linkedin.com/in/karoline-queiroz-8349ab209)
+
+---
+
+⭐ Obrigada por visitar meu perfil!
