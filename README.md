@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Karoline Barreto!
+# 👋 Olá, eu sou a Karoline!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UMC)
 💻 Apaixonada por tecnologia e em constante evolução na área de desenvolvimento de software
