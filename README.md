@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 * 🎓 Tecnólogo em ADS (Previsão: Julho/2026)
-* 💻 Focada em Java, Python e Banco de Dados (SQL)
+* 💻 Focada em Java, Spring Boot, Python e Banco de Dados (SQL)
 * 🎯 Objetivo: me tornar Desenvolvedora de Software
 * 📍 Ferraz de Vasconcelos - SP
 
@@ -20,6 +20,7 @@
 ### 💻 Linguagens
 
 * Java
+* Spring Boot
 * Python
 * JavaScript
 * HTML
@@ -28,6 +29,7 @@
 ### 🗄️ Banco de Dados
 
 * MySQL
+* H2 Database
 
 ### ⚙️ Ferramentas
 
@@ -43,19 +45,45 @@
 * Estruturas de Dados
 * Programação Orientada a Objetos
 * Banco de Dados
+* Desenvolvimento Web com Spring Boot
 
 ---
 
 ## 📌 Projetos em destaque
 
-🚧 Em construção... (em breve novos projetos aqui!)
+### 📚 Sistema de Cadastro de Livros
+Sistema para gerenciamento de uma livraria, permitindo cadastro, consulta e controle de livros.
+
+**Funcionalidades:**
+- Cadastro de livros (título, autor, ano, preço, quantidade)
+- Consulta e listagem de livros
+- Controle de estoque
+- Interface responsiva
+
+**Tecnologias:** HTML, CSS, JavaScript
+
+---
+
+### 🛒 Armarinho Popular
+Sistema completo de gestão para lojas de armarinho, desenvolvido com Java Spring Boot e Thymeleaf.
+
+**Funcionalidades:**
+- Gerenciamento de produtos, fornecedores e usuários
+- Controle de estoque e movimentações
+- Busca de preços e impressão de etiquetas
+- Sistema de solicitações e promoções
+- Autenticação e autorização com Spring Security
+- Dashboard com estatísticas
+
+**Tecnologias:** Java, Spring Boot, Thymeleaf, Bootstrap 5, H2 Database
 
 ---
 
 ## 📫 Contato
 
-📧 [karoliinequeiroz238@gmail.com](mailto:karoliinequeiroz238@gmail.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/karoline-queiroz-8349ab209](https://www.linkedin.com/in/karoline-queiroz-8349ab209)
+📧 karoliinequeiroz238@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/karoline-queiroz-8349ab209
+🔗 GitHub: https://github.com/KarolineTI
 
 ---
 
